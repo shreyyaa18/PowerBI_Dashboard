@@ -10,6 +10,8 @@ Hey GitHub community! 👋 I'm delighted to present my recent data visualization
 - **Date:** December 12, 2023
 
 In this engaging dashboard, I've animated the intricate sales data from the Global Superstore. 🌍💼 From dissecting regional sales trends to visualizing product performance, this dashboard provides a holistic view of our business's global performance.
+![global_superstore_dashboard_page-0001](https://github.com/shreyyaa18/PowerBI_Dashboard/assets/119337049/e375f028-1485-44cf-a305-864b11872cbf)
+
 
 ## Key Highlights
 1. **Geographic Sales Analysis:** Explore the distribution of sales across continents, countries, and regions using user-friendly maps.
